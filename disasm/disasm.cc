@@ -910,6 +910,7 @@ void disassembler_t::add_instructions(const isa_parser_t* isa)
   DEFINE_ITYPE_SHIFT(sraiw);
 
   DEFINE_RTYPE(add);
+  DEFINE_R3F1TYPE(optic);
   DEFINE_RTYPE(sub);
   DEFINE_RTYPE(sll);
   DEFINE_RTYPE(slt);

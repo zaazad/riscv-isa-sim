@@ -83,6 +83,7 @@ riscv_gen_hdrs = \
 
 riscv_insn_ext_i = \
 	add \
+	optic\
 	addi \
 	addiw \
 	addw \
